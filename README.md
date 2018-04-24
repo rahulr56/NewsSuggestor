@@ -7,3 +7,15 @@
 
 
 https://newsapi.org/v2/top-headlines?sources=XXXXXX?apiKey=API_KEY
+
+
+
+{
+a:"ffff"
+b:54
+c:[1,2,3,4]
+d:{
+    a:"b",
+    c:"d"
+  }
+}

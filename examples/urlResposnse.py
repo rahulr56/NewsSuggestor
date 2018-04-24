@@ -1,6 +1,7 @@
 import requests
 
-url = "https://github.com/rahulr56/NewsSuggestor/blob/master/sample.json"
+url = "https://raw.githubusercontent.com/rahulr56/NewsSuggestor/master/examples/sample.json"
 
 response = requests.get(url)
+# print (response)
 print(response.json())

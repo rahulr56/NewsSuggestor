@@ -19,7 +19,7 @@ class NewsScraper:
         self.channelMap = {}
         self.urlTail = '&apiKey=f9fff49292124700b36b8ec86c76339a'
         self.articles = {}
-        self.articleDumpFile = '../etc/articles.csv'
+        self.articleDumpFile = '../data/articles.csv'
         self.pickleDumpPath = os.path.join('..', 'etc', 'pkcl')
         FORMAT = '%(asctime)-15s %(filename)s %(funcName)s:%(lineno)d %(message)s'
         logging.basicConfig(format=FORMAT)

@@ -1,0 +1,108 @@
+Associated Press
+associated-press
+Axios
+axios
+BBC Sport
+bbc-sport
+Bloomberg
+bloomberg
+Breitbart News
+breitbart-news
+Business Insider
+business-insider
+Buzzfeed
+buzzfeed
+CBC News
+cbc-news
+CBS News
+cbs-news
+CNBC
+cnbc
+CNN
+cnn
+Crypto Coins News
+crypto-coins-news
+Engadget
+engadget
+Entertainment Weekly
+entertainment-weekly
+ESPN
+espn
+ESPN Cric Info
+espn-cric-info
+Financial Post
+financial-post
+Fortune
+fortune
+Fox News
+fox-news
+Google News
+google-news
+Google News (India)
+google-news-in
+Hacker News
+hacker-news
+Mashable
+mashable
+Medical News Today
+medical-news-today
+National Geographic
+national-geographic
+NBC News
+nbc-news
+New Scientist
+new-scientist
+News.com.au
+news-com-au
+Newsweek
+newsweek
+New York Magazine
+new-york-magazine
+Next Big Future
+next-big-future
+Polygon
+polygon
+Recode
+recode
+Reddit /r/all
+reddit-r-all
+TechCrunch
+techcrunch
+TechRadar
+techradar
+The Economist
+the-economist
+The Globe And Mail
+the-globe-and-mail
+The Hill
+the-hill
+The Hindu
+the-hindu
+The Huffington Post
+the-huffington-post
+The Lad Bible
+the-lad-bible
+The New York Times
+the-new-york-times
+The Next Web
+the-next-web
+The Telegraph
+the-telegraph
+The Times of India
+the-times-of-india
+The Verge
+the-verge
+The Wall Street Journal
+the-wall-street-journal
+The Washington Post
+the-washington-post
+Time
+time
+USA Today
+usa-today
+Vice News
+vice-news
+Wired
+wired
+Xinhua Net
+xinhua-net
